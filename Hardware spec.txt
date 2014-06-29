@@ -1,0 +1,17 @@
+eval board:
+ STM32F4 Discovery
+MCU:
+ stm32f407vgt6
+
+camera :
+
+
+lcd:
+
+
+ethernet:
+
+
+
+development tools:
+
